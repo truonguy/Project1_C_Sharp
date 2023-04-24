@@ -1,0 +1,45 @@
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.pdb
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\Persistence.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\Persistence.pdb
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.pdb
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\HK1-VTC\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\HK1-VTC\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.dll
+C:\HK1-VTC\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.pdb
+C:\HK1-VTC\Code-Project-Semi-1\DAL\bin\Debug\net6.0\Persistence.dll
+C:\HK1-VTC\Code-Project-Semi-1\DAL\bin\Debug\net6.0\Persistence.pdb
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.dll
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.pdb
+C:\HK1-VTC\Code-Project-Semi-1\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\DAL.pdb
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\Persistence.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\bin\Debug\net6.0\Persistence.pdb
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\DAL.pdb
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\DAL\obj\Debug\net6.0\ref\DAL.dll

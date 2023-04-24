@@ -1,0 +1,36 @@
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.deps.json
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.pdb
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.pdb
+D:\VTC Academy\Kỳ 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\ref\Utilities.dll
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\HK1-VTC\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\ref\Utilities.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Utilities\obj\Debug\net6.0\ref\Utilities.dll
