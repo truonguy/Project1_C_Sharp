@@ -49,3 +49,20 @@ C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\BL\obj\Debu
 C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\BL\obj\Debug\net6.0\refint\BL.dll
 C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\BL\obj\Debug\net6.0\BL.pdb
 C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\BL\obj\Debug\net6.0\ref\BL.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\BL.deps.json
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\BL.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\BL.pdb
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\DAL.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\Persistence.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\Persistence.pdb
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\bin\Debug\net6.0\DAL.pdb
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\refint\BL.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\BL.pdb
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\BL\obj\Debug\net6.0\ref\BL.dll

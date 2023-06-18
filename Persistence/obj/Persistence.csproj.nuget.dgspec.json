@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj": {}
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj": {
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\obj\\",
+        "outputPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,15 +53,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     }

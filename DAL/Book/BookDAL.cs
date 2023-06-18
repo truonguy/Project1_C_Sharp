@@ -63,8 +63,10 @@ namespace DAL
             {
                 connection.Close();
             }
+
             return list;
         }
+
 
         public List<Book> GetBookByCategoryName(string keySearch)
         {

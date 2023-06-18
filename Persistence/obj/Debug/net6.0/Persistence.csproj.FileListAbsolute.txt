@@ -34,3 +34,15 @@ C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Persistence
 C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\HK1-VTC\Project Semester 1\Project Semester 1\Code-Project-Semi-1\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\HK1-VTC\Project 1\Project  1\Code-Project-1\Persistence\obj\Debug\net6.0\ref\Persistence.dll

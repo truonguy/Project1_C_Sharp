@@ -47,9 +47,12 @@ namespace Utilities
         public static string GetPassword()
         {
             StringBuilder sb = new StringBuilder();
+
+            // Vòng lặp liên tục đọc các ký tự từ console cho đến khi người dùng bấm phím Enter
             while (true)
             {
                 ConsoleKeyInfo cki = Console.ReadKey(true);
+
                 if (cki.Key == ConsoleKey.Enter)
                 {
                     Console.WriteLine();
@@ -67,11 +70,11 @@ namespace Utilities
                     continue;
                 }
                 Console.Write('*');
-
                 sb.Append(cki.KeyChar);
             }
             return sb.ToString();
         }
+
 
         public static int Menu(string[] menu, string name)
         {

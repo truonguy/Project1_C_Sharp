@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zE1PeALxektKcXLxF9yGmMXX5YDRUfyCz5Ndjb/gXLXdCLQVwSccjWNytjYtLeM+IogtzXXD2QfbY89tJbddxg==",
+  "dgSpecHash": "D1y1xk+aHzdQUtwe1Veq6B589EhgA5hP0x1iY8C9rflnH7rpzHmJQcGQklzJ4ICDkNa/WQDUYRIZUVJsSNCvVQ==",
   "success": true,
-  "projectFilePath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\BL.csproj",
+  "projectFilePath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
@@ -23,9 +23,9 @@
     "C:\\Users\\pc\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512"
   ],
   "logs": []
 }

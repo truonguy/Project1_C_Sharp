@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\ConsolePL\\ConsolePL.csproj": {}
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\ConsolePL\\ConsolePL.csproj": {}
   },
   "projects": {
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\BL.csproj": {
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\BL.csproj",
+        "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\obj\\",
+        "outputPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\DAL\\DAL.csproj"
+              "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\DAL\\DAL.csproj"
               },
-              "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj"
+              "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -60,15 +60,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\ConsolePL\\ConsolePL.csproj": {
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\ConsolePL\\ConsolePL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\ConsolePL\\ConsolePL.csproj",
+        "projectUniqueName": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\ConsolePL\\ConsolePL.csproj",
         "projectName": "ConsolePL",
-        "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\ConsolePL\\ConsolePL.csproj",
+        "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\ConsolePL\\ConsolePL.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\ConsolePL\\obj\\",
+        "outputPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\ConsolePL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,14 +104,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\BL.csproj": {
-                "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\BL\\BL.csproj"
+              "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\BL.csproj": {
+                "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\BL\\BL.csproj"
               },
-              "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj"
+              "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj"
               },
-              "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Utilities\\Utilities.csproj"
+              "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -139,19 +139,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -159,18 +159,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\DAL\\DAL.csproj": {
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\DAL\\DAL.csproj",
+        "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\DAL\\obj\\",
+        "outputPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,8 +187,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj"
+              "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -222,15 +222,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -238,18 +238,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj": {
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Persistence\\obj\\",
+        "outputPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -291,15 +291,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -307,18 +307,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Utilities\\Utilities.csproj": {
+    "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\HK1-VTC\\Project Semester 1\\Project Semester 1\\Code-Project-Semi-1\\Utilities\\obj\\",
+        "outputPath": "C:\\HK1-VTC\\Project 1\\Project  1\\Code-Project-1\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -360,15 +360,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -376,7 +376,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     }

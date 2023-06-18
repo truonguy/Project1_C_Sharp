@@ -35,17 +35,17 @@ namespace ConsolePL
                 {
                     Console.Clear();
                     Console.WriteLine("================================================================================================================================");
-                    Console.WriteLine($"|                                            Search results with keyword {search,-53} |");
+                    Console.WriteLine($"|                                            Search results with keyword {search,-53}  |");
                     Console.WriteLine($"| Found about {list.Count} books                                                                                                  Page {page}/{pages} |");
                     Console.WriteLine("================================================================================================================================");
-                    Console.WriteLine("| Book id   | Book title                                                            | Price           | Type                   |");
+                    Console.WriteLine("| Book id   | Book title                                                            | Price           | Type                    |");
                     if (list.Count < size)
                     {
                         for (i = 0; i < list.Count; i++)
                         {
                             price = Utility.FormatCurrency(list[i].bookPrice.ToString());
                             Console.WriteLine("--------------------------------------------------------------------------------------------------------------------------------");
-                            Console.WriteLine($"| {list[i].bookId,-9} | {list[i].bookName,-69} | {price,-15} | {list[i].bookCategory!.categoryName,-22} |");
+                            Console.WriteLine($"| {list[i].bookId,-9} | {list[i].bookName,-69} | {price,-15} | {list[i].bookCategory!.categoryName,-22}  |");
                         }
                     }
                     else
@@ -55,7 +55,7 @@ namespace ConsolePL
                             if (i == list.Count) break;
                             price = Utility.FormatCurrency(list[i].bookPrice.ToString());
                             Console.WriteLine("--------------------------------------------------------------------------------------------------------------------------------");
-                            Console.WriteLine($"| {list[i].bookId,-9} | {list[i].bookName,-69} | {price,-15} | {list[i].bookCategory!.categoryName,-22} |");
+                            Console.WriteLine($"| {list[i].bookId,-9} | {list[i].bookName,-69} | {price,-15} | {list[i].bookCategory!.categoryName,-22}  |");
                         }
                     }
                     Console.WriteLine("================================================================================================================================");
@@ -142,6 +142,7 @@ namespace ConsolePL
         public static void ShowListOfAllBooks()
         {
             list = bookBl.GetAllBooks();
+
             if (list.Count == 0)
             {
                 Console.WriteLine("No books!");
@@ -151,6 +152,7 @@ namespace ConsolePL
                 int size = 10;
                 int page = 1;
                 int pages = (int)Math.Ceiling((double)list.Count / size);
+                // Biến đếm
                 int i, k = 0;
                 string choose, price;
                 while (true)
@@ -161,6 +163,7 @@ namespace ConsolePL
                     Console.WriteLine($"|                                                                                                                     Page {page}/{pages} |");
                     Console.WriteLine("================================================================================================================================");
                     Console.WriteLine("| Book id   | Book title                                                            | Price           | Type                   |");
+
                     if (list.Count < size)
                     {
                         for (i = 0; i < list.Count; i++)
@@ -188,6 +191,7 @@ namespace ConsolePL
                     Console.WriteLine("-----------------------------------------------------------------");
                     Console.Write("Choose: ");
                     choose = Console.ReadLine() ?? "";
+
                     while (true)
                     {
                         if (Regex.Match(choose, @"([PpNn]|[1-9]|^0$)").Success)
@@ -233,6 +237,7 @@ namespace ConsolePL
                     }
                     else
                     {
+                        // Tìm kiếm sách với ID hoặc tên tương ứng
                         bool found = false;
                         string search1 = '"' + choose + '"';
                         for (i = ((page - 1)) * size; i < k + 10; i++)
@@ -310,6 +315,7 @@ namespace ConsolePL
                 Console.WriteLine($" {str.Remove(0, 1),-70} |");
                 Console.WriteLine("===============================================================================================");
             }
+
         }
     }
 }
